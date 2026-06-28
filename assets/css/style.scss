@@ -1,0 +1,43 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* Narrow the left sidebar */
+header {
+  width: 200px;
+  padding-right: 20px;
+}
+
+section {
+  width: calc(100% - 230px);
+  margin-left: 230px;
+}
+
+/* Navigation links styling */
+header nav {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #e0e0e0;
+}
+
+header nav p {
+  margin: 8px 0;
+}
+
+header nav a {
+  font-weight: 500;
+}
+
+/* Responsive: stack on small screens */
+@media print, screen and (max-width: 720px) {
+  header {
+    width: auto;
+    padding-right: 0;
+  }
+
+  section {
+    width: 100%;
+    margin-left: 0;
+  }
+}
