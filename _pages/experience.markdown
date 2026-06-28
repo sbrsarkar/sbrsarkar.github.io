@@ -20,28 +20,19 @@ permalink: /experience/
 
 **Applied Scientist** — Bellevue, WA (Aug 2020 – Mar 2026)
 
-### Continued Pre-Training of Alexa Core LLM
-- Developed continued pre-training pipeline to embed domain knowledge into the core LLM powering Alexa+
-- Improved system efficiency and user experience by reducing prompt length and minimizing inference latency
-- Collaborated with several internal cross-functional domain teams to create high quality Alexa pre-training dataset
+Contributed to the launch of [Alexa+](https://www.amazon.com/alexaplus/) in the USA — an LLM-powered Alexa that can hold multi-turn conversations with users.
 
-### Post-Training of Alexa Core LLM
-- Served as the release owner of the Supervised Fine-Tuning (SFT) stage for multiple versions of the core Alexa LLM
-- Curated high-quality SFT dataset by collaborating with diverse domain teams to gather data for a range of applications, including API invocation, response generation, and complex multi-turn instruction-following
-- Designed and executed comprehensive ablation studies to optimize the data mix for each model release
+### LLM Pre-Training & Post-Training
+- Developed continued pre-training pipelines to embed domain knowledge into the LLM powering Alexa+
+- Led supervised fine-tuning (SFT) efforts for multiple model releases
+- Designed data curation strategies and ablation studies to optimize training data composition
 
-### Fast Routing Model via Knowledge Distillation
-- Developed a fast router model to address the high latency of expert selection in Alexa+
-- Significantly reduced user-perceived latency by moving from a large, slow LLM to an efficient distilled model
-- Conducted extensive experiments with model architectures to ensure fast inference with high routing accuracy
+### Model Optimization & Distillation
+- Built efficient routing models using knowledge distillation to reduce inference latency in Alexa+
+- Experimented with model architectures to balance accuracy and speed for production deployment
 
-### Data Labeling Pipeline for Alexa Content Moderation
-- Developed a comprehensive content moderation system for Alexa, scanning 100% of traffic for inappropriate content
-- Developed a multi-stage filtering pipeline, utilizing efficient, high-recall models for initial screening and more computationally intensive LLMs for complex cases in later stages
-- Fine-tuned 7B LLM for a variety of content moderation tasks, including flagging inappropriate content, categorizing violation types, and generating detailed explanations for decision-making
-
-### Enhancing LLM Safety and Helpfulness
-- Implemented a customer query classifier to identify sensitive topics in multi-turn Alexa LLM interactions
-- Employed knowledge distillation to train production-ready, small-scale model from 7B LLM, enabling efficient real-time inference
-- Maintained model precision above 90% on live traffic by iteratively deploying updated models to account for evolving data distributions
-- Employed weight interpolation technique to reduce the rate of missed detections below 5% at 90% precision
+### Responsible AI & Content Moderation
+- Developed content moderation systems using multi-stage classification pipelines
+- Fine-tuned LLMs for content classification, violation categorization, and explanation generation
+- Built classifiers for sensitive topic detection in multi-turn conversations
+- Applied techniques like knowledge distillation and weight interpolation for production-ready models
