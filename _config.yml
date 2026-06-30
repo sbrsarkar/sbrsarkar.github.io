@@ -21,7 +21,7 @@
 title: Subrata Sarkar
 email: s.subrata105@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior Applied Scientist @Microsoft | Ex-Amazon | PhD in ECE | Researcher in Agentic AI, LLM Post-Training
+  Senior Applied Scientist @Microsoft<br>Ex-Amazon • PhD (OSU)<br>AI Agents | LLM Post-Training | Bayesian ML
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: sbrsarkar

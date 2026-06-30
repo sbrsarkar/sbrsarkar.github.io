@@ -21,12 +21,35 @@ header nav {
   border-top: 1px solid #e0e0e0;
 }
 
+header nav:first-of-type {
+  border-top: none;
+}
+
 header nav p {
   margin: 8px 0;
 }
 
 header nav a {
   font-weight: 500;
+}
+
+/* Sidebar horizontal rule */
+header hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 20px 0;
+}
+
+/* External links styling */
+header nav.external-links {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+header nav.external-links a {
+  font-weight: 400;
+  font-size: 0.9em;
 }
 
 /* Responsive: stack on small screens */

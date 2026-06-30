@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
+<img src="/assets/images/my-image.jpg" alt="Subrata Sarkar" width="180" style="border-radius: 50%; float: right; margin-left: 20px;">
+
 # About Me
 
-I am an AI researcher and engineer passionate about building intelligent agents that can reason, plan, and act in complex environments. My interests span agentic AI, reinforcement learning, memory-augmented systems, and the science of making AI more reliable and effective
+I am an AI researcher and engineer passionate about building intelligent agents that can reason, plan, and act in complex environments.
 
 ## Education
 
@@ -24,3 +26,4 @@ I am an AI researcher and engineer passionate about building intelligent agents 
 
 - [GitHub](https://github.com/sbrsarkar)
 - [LinkedIn](https://www.linkedin.com/in/sbrsarkar)
+- [Google Scholar](https://scholar.google.com/citations?user=lONr8RwAAAAJ&hl=en)

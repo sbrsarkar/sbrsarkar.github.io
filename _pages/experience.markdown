@@ -6,33 +6,34 @@ permalink: /experience/
 
 # Experience
 
-## Microsoft
+<img src="https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray.png" alt="Microsoft" height="60" style="vertical-align: middle;">
 
-**Senior Applied Scientist** — Redmond, WA (Mar 2026 – Present)
+**Senior Applied Scientist** @ Microsoft — Redmond, WA (Mar 2026 – Present)
 
 - Design and develop AI agents for enterprise business workflows
 - Reinforcement learning to improve model reliability and task performance
-- Collaborate across research, engineering, and product to translate research into production systems
+- Collaborate across research, engineering, and product teams to ship AI systems
 
 ---
 
-## Amazon Alexa
+<img src="https://assets.aboutamazon.com/2e/d7/ac71f1f344c39f8949f48fc89e71/amazon-logo-squid-ink-smile-orange.png" alt="Amazon" height="28" style="vertical-align: middle;">
 
-**Applied Scientist** — Bellevue, WA (Aug 2020 – Mar 2026)
+**Applied Scientist** @ Amazon — Bellevue, WA (Aug 2020 – Mar 2026)
 
-Contributed to the launch of [Alexa+](https://www.amazon.com/alexaplus/) in the USA — an LLM-powered Alexa that can hold multi-turn conversations with users.
+Contributed to the launch of [Alexa+](https://www.amazon.com/alexaplus/) in the USA.
+
 
 ### LLM Pre-Training & Post-Training
-- Developed continued pre-training pipelines to embed domain knowledge into the LLM powering Alexa+
+- Developed continued pre-training (CPT) to embed domain knowledge into LLM weights
 - Led supervised fine-tuning (SFT) efforts for multiple model releases
-- Designed data curation strategies and ablation studies to optimize training data composition
+- Designed data curation strategies and ablation studies to optimize training data
 
 ### Model Optimization & Distillation
-- Built efficient routing models using knowledge distillation to reduce inference latency in Alexa+
-- Experimented with model architectures to balance accuracy and speed for production deployment
+- Built efficient routing models using knowledge distillation to reduce inference latency
+- Designed efficient model architectures to balance accuracy and speed for production
 
 ### Responsible AI & Content Moderation
 - Developed content moderation systems using multi-stage classification pipelines
-- Fine-tuned LLMs for content classification, violation categorization, and explanation generation
 - Built classifiers for sensitive topic detection in multi-turn conversations
-- Applied techniques like knowledge distillation and weight interpolation for production-ready models
+- Fine-tuned LLMs for content classification, and explanation generation
+- Applied techniques like model pruning and knowledge distillation for low latency
