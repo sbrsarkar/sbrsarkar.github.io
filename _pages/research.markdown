@@ -27,7 +27,7 @@ During my PhD, I developed algorithms for solving linear and bilinear inverse pr
 - **Sarkar**, Ahmad, Schniter, "[MRI IMAGE RECOVERY USING DAMPED DENOISING VECTOR AMP
 ](https://arxiv.org/pdf/2010.11321)", *IEEE ICASSP*, 2021.
 
-- **Sarkar**, "[Solving Linear and Bilinear Inverse Problems Using Approximate Message Passing Methods](https://www.proquest.com/openview/929b46fc51ecacde4290e675f7974850/1?pq-origsite=gscholar&cbl=18750&diss=y)", *PhD Dissertation*, 2020.
+- **Sarkar**, "[Solving Linear and Bilinear Inverse Problems Using Approximate Message Passing Methods](https://phil-schniter.web.app/pdf/sarkar_diss.pdf)", *PhD Dissertation*, 2020.
 
 - Fletcher, Pandit, Rangan, **Sarkar**, Schniter, "[Plug-in estimation in high-dimensional linear inverse problems: A rigorous analysis](https://proceedings.neurips.cc/paper_files/paper/2018/hash/2ad9e5e943e43cad612a7996c12a8796-Abstract.html)", *NeurIPS*, 2018.
 
